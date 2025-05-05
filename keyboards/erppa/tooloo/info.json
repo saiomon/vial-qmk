@@ -1,0 +1,8 @@
+{
+    "manufacturer": "ErppaWorks",
+    "keyboard_name": "Tooloo50",
+    "maintainer": "qmk",
+    "usb": {
+        "vid": "0x2732"
+    }	
+}
